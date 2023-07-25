@@ -12,7 +12,7 @@ const HomePage = () => {
                 <div className='max-w-md'>
                   <div>
                     <img
-                      src='../../public/money-tracker-logo-01.png'
+                      src='/money-tracker-logo-01.png'
                       alt=''
                       className='mb-10'
                     />
